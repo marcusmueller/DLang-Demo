@@ -1,0 +1,16 @@
+{
+	"authors": [
+		"root"
+	],
+	"copyright": "Copyright © 2023, root",
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "proj",
+"dependencies": {
+    "bindbc-sfml": "~>1.0.0",
+},
+"versions": [
+    "SFML_Audio",
+    "SFML_Graphics"
+]
+}
