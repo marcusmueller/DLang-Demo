@@ -12,6 +12,6 @@
 "versions": [
     "SFML_Audio",
     "SFML_Graphics",
-    "SFML_250"
+    "SFML_205"
 ]
 }
